@@ -10,7 +10,7 @@ This is my first portfolio project for my professional data analytics journey. M
   out on an advantageous discount, seeing a more expensive lowest available price since. Part of the appeal of offering discounts is urgency. Though in contrast,
   when the discount sites are aggregated, often times when one discount expires, another takes its place--an ongoing price ceiling. Consumers
   have poor means of gauging the price efficiency of a specific discount price (whether a better one is likely to occur, or in consideration of relative value).
-  That's what this tool solves. A real problem for consumers solved using available data.
+  That's what this tool solves. A real world problem for consumers solved using available data.
   
   Technical Overview:
   
