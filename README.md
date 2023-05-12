@@ -12,6 +12,7 @@ This is my first portfolio project for my professional data analytics journey. M
   have poor means of gauging the price efficiency of a specific discount price (whether a better one is likely to occur, or in consideration of relative value).
   That's what this tool solves. A real world problem for consumers solved using available data.
   
-  Technical Overview:
+Technical Overview:
   
-  There are four (4) python files used. In combination, there are around 1000 lines of code and blanks.
+  There are four (4) python files used. In combination, there are around 1500 lines of code and blanks, with the display options comprising 500 of these lines.
+For display I prefer Jupyter Notebook (vers. 6.5.4), though Spyder (vers. 5.4.3) has handy features which makes it preferable for the bulk of tasks.
