@@ -31,5 +31,5 @@ If using my SQLite3 file, skip to 3 below.
 - Make sure the database file is located in the proper directory.
 - Install the necessary libraries as prompted.
 - Enter desired month range in absolute values as prompted. Enter the number of games to consider in the analysis.
-- If you are interested in the broad market, press enter (blank) when prompted for series name. Enter a series if you'd like to see the discount trends of the previous editions of a series.
+- If you are interested in the broad market, press enter (blank) when prompted for series name. Enter a series if you'd like to see the discount trends of the previous editions of a series (e.g. "Call of Duty").
 - If you are interested in a specific game, as of now it considers games from the publisher. You can further specify and copy above code for your peticular interests. This is located at the end of the file, where it specifies Manor Lords as the default.
