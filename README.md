@@ -14,7 +14,7 @@ For any game, you can model the expected trends of the price discounts over time
 In the aggregate, the best available discount price is highest nearest to launch, such that the average discounted price is lower six (3) months before or after launch than two (2) weeks prior to launch. 
 
 Potential additions:
-- Categorize which games are more likely to have a decreasing discount trend prior to launch
+- Categorize which games are more likely to have a decreasing discount prior-to-launch trend
 - Model the aggregate trends of video game series
 
 **Technical Overview:**
