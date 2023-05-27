@@ -6,7 +6,17 @@ Is that video game discount a good deal? What are the expected discount tendenci
 This is my first portfolio project for my professional data analytics journey. My analytical interest in the creation of this database was to identify whether a given discount for a pre-launch game was likely the best offer to occur before the game's release. This interest came to me when I missed out on an advantageous discount, seeing a more expensive lowest available price since. Part of the appeal of offering discounts is urgency. Though in contrast, when the discount sites are aggregated, often times when one discount expires, another takes its place--an ongoing price ceiling. Consumers have poor means of gauging the price efficiency of a specific discount price (whether a better one is likely to occur before a critical date, or in consideration of relative value). That's what this tool solves--a real world problem for consumers solved using available data.
 
 The data sources are Steam, Steamcharts.com, and gg.deals. Steam is a popular video game digital distribution service and storefront, accounting for between 50 to 70% of all PC game downloads around the world. Steamcharts sources its data from Steam. Gg.deals aggregates the various discount stores which offer discounts for PC games and charts the lowest available price for a game 'key' (used to redeem the game/product), and distinguishes the discount store by whether or not it's officially sanctioned to be a key seller--though this generally has negligible meaning.
-  
+
+**Data Takeaways:**
+
+For any game, you can model the expected trends of the price discounts over time.
+
+In the aggregate, the best available discount percent is lowest nearest to launch, such that the average discounted price is lower six (6) months before launch than two (2) weeks prior to launch. 
+
+Potential additions:
+- Categorize which games are more likely to have a decreasing discount trend prior to launch
+- Model the aggregate trends of video game series
+
 **Technical Overview:**
   
   There are four (4) python files used. In combination, there are around 1500 lines of code and blanks, with the display options comprising 500 of these lines.
