@@ -20,7 +20,7 @@ Potential additions:
 **Technical Overview:**
   
   There are four (4) python files used. In combination, there are around 1500 lines of code and blanks, with the display options comprising 500 of these lines.
-For display I prefer Jupyter Notebook (vers. 6.5.4), though Spyder (vers. 5.4.3) has handy features which makes it preferable for the bulk of tasks. This product features combined data sources from web scraping and interaction with an api, which are iteratively uploaded to an SQLite3 database, with checks for duplication. There are sanity checks at every steps, as well as a generally automated experience, pulling links and storing them to use whenever next the program is run. The database is designed efficiently.
+For display I prefer Jupyter Notebook (vers. 6.5.4), though Spyder (vers. 5.4.3) has handy features which makes it preferable for the bulk of tasks. This product features combined data sources from web scraping and interaction with an api, which are iteratively uploaded to an SQLite3 database, with checks for duplication. There are sanity checks at every steps, as well as a generally automated experience, pulling links and storing them to use whenever next the program is run. The database was created efficiently towards the standard principles of database design.
 
 **Files:**
 
