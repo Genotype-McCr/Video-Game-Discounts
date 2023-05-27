@@ -11,7 +11,7 @@ The data sources are Steam, Steamcharts.com, and gg.deals. Steam is a popular vi
 
 For any game, you can model the expected trends of the price discounts over time.
 
-In the aggregate, the best available discount price is highest nearest to launch, such that the average discounted price is lower six (6) months before launch than two (2) weeks prior to launch. 
+In the aggregate, the best available discount price is highest nearest to launch, such that the average discounted price is lower six (6) months before or after launch than two (2) weeks prior to launch. 
 
 Potential additions:
 - Categorize which games are more likely to have a decreasing discount trend prior to launch
