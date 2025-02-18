@@ -11,7 +11,7 @@ The data sources are Steam, Steamcharts.com, and gg.deals. Steam is a popular vi
 
 For any game, you can model the expected trends of the price discounts over time.
 
-In the aggregate, the best available discount price is highest nearest to launch, such that the average discounted price is lower six (3) months before or after launch than two (2) weeks prior to launch. 
+In the aggregate, the most cost effective available discounted price is highest nearest to launch, such that the average discounted price is lower three (3) months before or after launch than two (2) weeks prior to launch. 
 
 Potential additions:
 - Categorize which games are more likely to have a decreasing discount prior-to-launch trend
@@ -42,4 +42,4 @@ If using my SQLite3 file, skip to 3 below.
 - Install the necessary libraries as prompted.
 - Enter desired month range in absolute values as prompted. Enter the number of games to consider in the analysis.
 - If you are interested in the broad market, press enter (blank) when prompted for series name. Enter a series if you'd like to see the discount trends of the previous editions of a series (e.g. "Call of Duty").
-- If you are interested in a specific game without containing to a series consideration, as of now it simply evaulates the history of discounts from the publisher. You can further specify and copy above code for your peticular interests. This is located at the end of the file, where it specifies Manor Lords as the default.
+- If you are interested in a specific game without containing consideration to a series, as of now it simply evaulates the history of discounts from the publisher. You can further specify and copy above code for your peticular interests. This is located at the end of the file, where it specifies Manor Lords as the default.
